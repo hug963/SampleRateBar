@@ -2,6 +2,6 @@
 
 ![screenshot of SampleRateBar](https://github.com/hug963/sampleratebar/blob/master/screenshot.png?raw=true)
 
-A MacOS menulet written in Swift that lets you easily switch between sample rates for your current audio output.
+A MacOS Menulet to change the sample rate of the current sound output.
 
-TODO: Add listener to update menulet when audio output is changed by another process
+TODO: Add listener to update menulet when sound output is changed by another process.
